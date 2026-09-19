@@ -1,26 +1,28 @@
-# Machine Learning Assignments
+# Machine Learning Coursework
 
-This repository contains coursework and assignments for the Machine Learning course.
+This repository contains assignments and practical work completed for the **Machine Learning** course.
+
+## Repository Structure
+
+```text
+ML/
+├── Assignment-1/
+└── Assignment-2/
+```
 
 ## Assignment 1 – Concept Learning
 
-Assignment 1 focuses on **email spam classification using concept learning** and the Spambase dataset.
+Assignment 1 focuses on **concept learning for email spam classification** using the Spambase dataset.
 
-The work includes:
+The work includes data preprocessing, feature scaling and discretization, Least General Generalization (LGG), LGG conjunction rules, model training and testing, and evaluation using classification metrics such as accuracy, precision, recall, specificity, false-positive rate, false-negative rate, and F1-score.
 
-- Data exploration and preprocessing
-- Feature scaling with `StandardScaler`
-- Discretization with `KBinsDiscretizer`
-- Least General Generalization (LGG)
-- LGG conjunction rules
-- Training and testing
-- Evaluation using accuracy, precision, recall, specificity, false-positive rate, false-negative rate, and F1-score
+The Assignment 1 folder is intended to contain the Jupyter Notebook implementation, assignment report, and its own README with more detailed information.
 
-### Files
+## Assignment 2
 
-- `ML_1.ipynb` – Jupyter Notebook implementation
-- `ML-report.pdf` – Assignment report
+The `Assignment-2/` folder is reserved for the second Machine Learning assignment. Its code, report, and documentation can be added there.
 
-### Dataset
+## Authors
 
-The notebook expects the Spambase dataset files (`spambase.data` and `spambase.names`). Update the file paths in the notebook according to where the dataset is stored.
+- Asra Anees
+- Ali Abdullah

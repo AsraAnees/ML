@@ -1,28 +1,11 @@
-# Machine Learning Coursework
+# Machine Learning
 
-This repository contains assignments and practical work completed for the **Machine Learning** course.
-
-## Repository Structure
-
-```text
-ML/
-├── Assignment-1/
-└── Assignment-2/
-```
+This repository contains coursework and practical assignments completed for the **Machine Learning** course.
 
 ## Assignment 1 – Concept Learning
 
-Assignment 1 focuses on **concept learning for email spam classification** using the Spambase dataset.
+Email spam classification using the Spambase dataset. The assignment applies data preprocessing and discretization together with Least General Generalization (LGG) and LGG conjunction rules to learn concepts and evaluate classification performance.
 
-The work includes data preprocessing, feature scaling and discretization, Least General Generalization (LGG), LGG conjunction rules, model training and testing, and evaluation using classification metrics such as accuracy, precision, recall, specificity, false-positive rate, false-negative rate, and F1-score.
+## Assignment 2 – Classification Algorithm Comparison
 
-The Assignment 1 folder is intended to contain the Jupyter Notebook implementation, assignment report, and its own README with more detailed information.
-
-## Assignment 2
-
-The `Assignment-2/` folder is reserved for the second Machine Learning assignment. Its code, report, and documentation can be added there.
-
-## Authors
-
-- Asra Anees
-- Ali Abdullah
+Comparison of **Naive Bayes, Decision Tree, and K-Nearest Neighbour (KNN)** classifiers on the Spambase dataset using 10-fold cross-validation. The assignment evaluates accuracy, F1-score, and training time, and uses the **Friedman test** and **Nemenyi post-hoc test** to analyze differences between the algorithms.

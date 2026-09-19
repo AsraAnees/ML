@@ -18,14 +18,9 @@ The work includes:
 
 ### Files
 
-- `Assignment-1/ML_1.ipynb` – Jupyter Notebook implementation
-- `Assignment-1/ML-report.pdf` – Assignment report
+- `ML_1.ipynb` – Jupyter Notebook implementation
+- `ML-report.pdf` – Assignment report
 
 ### Dataset
 
 The notebook expects the Spambase dataset files (`spambase.data` and `spambase.names`). Update the file paths in the notebook according to where the dataset is stored.
-
-## Group 60
-
-- Asra Anees
-- Ali Abdullah
